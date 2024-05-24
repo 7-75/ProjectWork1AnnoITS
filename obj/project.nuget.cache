@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQ9YJrX1sViAfYDFi9iVo2uDVR1vpizz6l/LkSvinF8M2Gdb6p3MJFO242WiksbjbSyufeR+nKOmkxK8Fsf90w==",
+  "success": true,
+  "projectFilePath": "/home/tizianods/Projects/ProjectWork/Prove/Prove.csproj",
+  "expectedPackageFiles": [
+    "/home/tizianods/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/tizianods/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/tizianods/.nuget/packages/cliwrap/3.6.6/cliwrap.3.6.6.nupkg.sha512",
+    "/home/tizianods/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/tizianods/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/tizianods/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/tizianods/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/tizianods/.nuget/packages/gtksharp.template.csharp/3.24.24.95/gtksharp.template.csharp.3.24.24.95.nupkg.sha512",
+    "/home/tizianods/.nuget/packages/opencvsharp4.runtime.linux-arm/4.9.0.20240103/opencvsharp4.runtime.linux-arm.4.9.0.20240103.nupkg.sha512",
+    "/home/tizianods/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512",
+    "/home/tizianods/.nuget/packages/microsoft.netcore.app.host.linux-arm64/6.0.29/microsoft.netcore.app.host.linux-arm64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
