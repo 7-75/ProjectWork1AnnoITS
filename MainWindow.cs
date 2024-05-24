@@ -93,8 +93,6 @@ namespace Prove
             // Create a new Capture object
             mainCapture = await FileCapture.Execute(FCBtn_Main.Filename);
 
-            File.WriteAllText("latest.json", FCBtn_Main.Filename);
-
             // Get the output from the Capture object
             string output = mainCapture.Content;
 
@@ -334,7 +332,7 @@ namespace Prove
             fileChooser.DefaultResponse = ResponseType.Accept;
 
             //add default file name
-            fileChooser.CurrentName = System.DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + ".json";
+            fileChooser.CurrentName = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + ".json";
 
             //set the file chooser to save mode
             fileChooser.SelectMultiple = false;

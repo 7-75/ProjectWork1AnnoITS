@@ -23,3 +23,4 @@
 /home/tizianods/Projects/ProjectWork/Prove/obj/Debug/net6.0/Prove.pdb
 /home/tizianods/Projects/ProjectWork/Prove/obj/Debug/net6.0/Prove.genruntimeconfig.cache
 /home/tizianods/Projects/ProjectWork/Prove/obj/Debug/net6.0/ref/Prove.dll
+/home/tizianods/Projects/ProjectWork/Prove/obj/Debug/net6.0/Prove.sourcelink.json
