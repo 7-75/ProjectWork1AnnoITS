@@ -23,7 +23,14 @@ namespace Prove
 
         [UI] private readonly Window Wdw_Registro = null;
 
+        /// <summary>
+        /// The main capture object.
+        /// </summary>
         Capture mainCapture;
+
+        /// <summary>
+        /// The main Pixbuf object.
+        /// </summary>
         private Pixbuf mainPixbuf;
 
         public MainWindow() : this(new Builder("MainWindow.glade")) { }

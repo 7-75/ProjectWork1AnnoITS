@@ -5,10 +5,15 @@ using CliWrap;
 
 namespace Prove
 {
-    
+    /// <summary>
+    /// FileCapture is a class that represents a file capture
+    /// </summary>
     public static class FileCapture
     {
-
+        
+        /// <summary>
+        /// Execute the capture of a file
+        /// </summary>
         public static async Task<Capture> Execute(string path)
         {
             string source = path;
