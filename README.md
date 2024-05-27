@@ -35,7 +35,7 @@
 
 # Now that the template is created and libraries are installed we can start our editor of choice and stard coding (My editor is VS Code)
 
-`$ code`
+`$ code .`
 
 ## For what concerns the GUI we can edit the window.glade file in the project root folder, directly with the Glade editor
 
