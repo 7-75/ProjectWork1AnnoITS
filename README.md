@@ -30,6 +30,7 @@
 
 # Add the libraries needed for the developement
 `dotnet add package CliWrap`
+
 `dotnet add package GtkSharp`
 
 # Now that the template is created and libraries are installed we can start our editor of choice and stard coding (My editor is VS Code)
