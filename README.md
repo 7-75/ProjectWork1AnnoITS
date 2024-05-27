@@ -22,9 +22,9 @@
 
 # And everything is set up to create a new project
 
-``$ mkdir -p ˜/Projects/myapp``
-``$ cd ˜/Projects/myapp``
-``$ dotnet new gtkapp``
+```$ mkdir -p ˜/Projects/myapp```
+```$ cd ˜/Projects/myapp```
+```$ dotnet new gtkapp```
 
 # Add the libraries needed for the developement
 `dotnet add package CliWrap`
