@@ -10,15 +10,16 @@
 
 ## The first thing I did was to make sure I had dotnet 6.0 installed
 
-`# dnf install dotnet-6.0 (controllare)`
+`# dnf install dotnet-6.0`
+
+## Add the libraries needed for the developement
+`dotnet add package CliWrap`
+
+`dotnet add package GtkSharp`
 
 ## Then I installed all the other tools such as Glade
 
 `# dnf install glade`
-
-## Then I installed the GTK# library from the dotnet-cli tool
-
-`$ dotnet install GtkSharp (controllare)`
 
 ## And everything is set up to create a new project
 
@@ -27,11 +28,6 @@
 `$ cd ˜/Projects/myapp`
 
 `$ dotnet new gtkapp`
-
-## Add the libraries needed for the developement
-`dotnet add package CliWrap`
-
-`dotnet add package GtkSharp`
 
 ## Now that the template is created and libraries are installed we can start our editor of choice and stard coding (My editor is VS Code)
 
