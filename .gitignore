@@ -492,7 +492,7 @@ scans/*
 # Tmp Image
 temp.png
 
-#Debug Binaries
+# Visual Studio Code
+bin/Debug/net6.0/Prove
 bin/Debug/net6.0/Prove.dll
 bin/Debug/net6.0/Prove.pdb
-bin/Debug/net6.0/Prove
